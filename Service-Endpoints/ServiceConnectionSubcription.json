@@ -1,0 +1,39 @@
+{
+    "administratorsGroup": null,
+    "authorization": {
+      "parameters": {
+        "authenticationType": "spnKey",
+        "serviceprincipalid": "1940a346-cff2-4458-acf2-d8bdbb9c8c2c",
+        "tenantid": "63bba9bf-5820-408f-b151-c5ce0079c08b",
+        "serviceprincipalkey": "Secret"
+      },
+      "scheme": "ServicePrincipal"
+    },
+    "data": {
+      "creationMode": "Manual",
+      "environment": "AzureCloud",
+      "scopeLevel": "Subscription",
+      "subscriptionId": "06e6d20f-d8ff-4658-8441-2a687f0effea",
+      "subscriptionName": "Visual Studio Enterprise Subscription"
+    },
+    "description": "Sabir Dev Script Validation Service Connection created by automated infrastructure pipeline",
+    "groupScopeId": null,
+    "isReady": true,
+    "isShared": false,
+    "name": "Sabir Dev Demo Sub",
+    "operationStatus": null,
+    "owner": "Library",
+    "readersGroup": null,
+    "serviceEndpointProjectReferences": [
+      {
+        "description": "Sabir Dev Script Validation Service Connection created by automated infrastructure pipeline",
+        "name": "Sabir Dev Demo Sub",
+        "projectReference": {
+          "id": "03f0b5d6-4a44-408a-abaa-6b8ae5842939",
+          "name": "Sabir Dev"
+        }
+      }
+    ],
+    "type": "azurerm",
+    "url": "https://management.azure.com/"
+  }
