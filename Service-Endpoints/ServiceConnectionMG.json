@@ -12,22 +12,22 @@
   "data": {
     "creationMode": "Manual",
     "environment": "AzureCloud",
-    "scopeLevel": "Subscription",
-    "subscriptionId": "06e6d20f-d8ff-4658-8441-2a687f0effea",
-    "subscriptionName": "Visual Studio Enterprise Subscription"
+    "managementGroupId": "AzureDojo",
+    "managementGroupName": "AzureDojo",
+    "scopeLevel": "ManagementGroup"
   },
-  "description": "Description - Validation",
+  "description": "Description MG - Validation",
   "groupScopeId": null,
   "isReady": true,
   "isShared": false,
-  "name": "Service Connection Name - Validation",
+  "name": "Service Connection Name MG - Validation",
   "operationStatus": null,
   "owner": "Library",
   "readersGroup": null,
   "serviceEndpointProjectReferences": [
     {
-      "description": "Description - Validation",
-      "name": "Service Connection Name - Validation",
+      "description": "Description MG - Validation",
+      "name": "Service Connection Name MG - Validation",
       "projectReference": {
         "id": "f3442a88-de61-4002-a250-097bb7918404",
         "name": "DevOps Dojo"
